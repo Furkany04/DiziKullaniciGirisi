@@ -1,0 +1,11 @@
+C:\Users\furkan.yildiz\source\repos\çiftboyutludizikullanıcıgiriş\çiftboyutludizikullanıcıgiriş\bin\Debug\çiftboyutludizikullanıcıgiriş.exe.config
+C:\Users\furkan.yildiz\source\repos\çiftboyutludizikullanıcıgiriş\çiftboyutludizikullanıcıgiriş\bin\Debug\çiftboyutludizikullanıcıgiriş.exe
+C:\Users\furkan.yildiz\source\repos\çiftboyutludizikullanıcıgiriş\çiftboyutludizikullanıcıgiriş\bin\Debug\çiftboyutludizikullanıcıgiriş.pdb
+C:\Users\furkan.yildiz\source\repos\çiftboyutludizikullanıcıgiriş\çiftboyutludizikullanıcıgiriş\obj\Debug\çiftboyutludizikullanıcıgiriş.csproj.AssemblyReference.cache
+C:\Users\furkan.yildiz\source\repos\çiftboyutludizikullanıcıgiriş\çiftboyutludizikullanıcıgiriş\obj\Debug\çiftboyutludizikullanıcıgiriş.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan.yildiz\source\repos\çiftboyutludizikullanıcıgiriş\çiftboyutludizikullanıcıgiriş\obj\Debug\çiftboyutludizikullanıcıgiriş.Form1.resources
+C:\Users\furkan.yildiz\source\repos\çiftboyutludizikullanıcıgiriş\çiftboyutludizikullanıcıgiriş\obj\Debug\çiftboyutludizikullanıcıgiriş.Properties.Resources.resources
+C:\Users\furkan.yildiz\source\repos\çiftboyutludizikullanıcıgiriş\çiftboyutludizikullanıcıgiriş\obj\Debug\çiftboyutludizikullanıcıgiriş.csproj.GenerateResource.cache
+C:\Users\furkan.yildiz\source\repos\çiftboyutludizikullanıcıgiriş\çiftboyutludizikullanıcıgiriş\obj\Debug\çiftboyutludizikullanıcıgiriş.csproj.CoreCompileInputs.cache
+C:\Users\furkan.yildiz\source\repos\çiftboyutludizikullanıcıgiriş\çiftboyutludizikullanıcıgiriş\obj\Debug\çiftboyutludizikullanıcıgiriş.exe
+C:\Users\furkan.yildiz\source\repos\çiftboyutludizikullanıcıgiriş\çiftboyutludizikullanıcıgiriş\obj\Debug\çiftboyutludizikullanıcıgiriş.pdb
